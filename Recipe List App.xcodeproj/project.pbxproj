@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		412DEB2D29D4BCB800613391 /* RecipeDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 412DEB2C29D4BCB800613391 /* RecipeDetailView.swift */; };
 		41C44B6D29B7AFE6002DDFA9 /* Recipe_List_App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41C44B6C29B7AFE6002DDFA9 /* Recipe_List_App.swift */; };
 		41C44B6F29B7AFE6002DDFA9 /* RecipeListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 41C44B6E29B7AFE6002DDFA9 /* RecipeListView.swift */; };
 		41C44B7129B7AFE7002DDFA9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 41C44B7029B7AFE7002DDFA9 /* Assets.xcassets */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		412DEB2C29D4BCB800613391 /* RecipeDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeDetailView.swift; sourceTree = "<group>"; };
 		41C44B6929B7AFE6002DDFA9 /* Recipe List App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Recipe List App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		41C44B6C29B7AFE6002DDFA9 /* Recipe_List_App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Recipe_List_App.swift; sourceTree = "<group>"; };
 		41C44B6E29B7AFE6002DDFA9 /* RecipeListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeListView.swift; sourceTree = "<group>"; };
@@ -83,6 +85,7 @@
 			isa = PBXGroup;
 			children = (
 				41C44B6E29B7AFE6002DDFA9 /* RecipeListView.swift */,
+				412DEB2C29D4BCB800613391 /* RecipeDetailView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -191,6 +194,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				41C44B8629B7B31B002DDFA9 /* Recipe.swift in Sources */,
+				412DEB2D29D4BCB800613391 /* RecipeDetailView.swift in Sources */,
 				41C44B8829B7B44B002DDFA9 /* RecipeModel.swift in Sources */,
 				41C44B6F29B7AFE6002DDFA9 /* RecipeListView.swift in Sources */,
 				41C44B6D29B7AFE6002DDFA9 /* Recipe_List_App.swift in Sources */,
